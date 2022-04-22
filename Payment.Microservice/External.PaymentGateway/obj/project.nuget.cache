@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JptPvCVQBW5Ee00HGgJUNZIuxN4SVIC+wVMGRwuR2m6ucljilk6CaC2u5fKlMBPbqX3jnXtibcyl2JpKFMV+nw==",
+  "success": true,
+  "projectFilePath": "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment-Microservice\\Payment.Microservice\\External.PaymentGateway\\External.PaymentGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
