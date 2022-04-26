@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yNFPGww/9LN8F5suRRBSrD4EGpHCSaKDANdrbt0Tp3+IqN+JLU3/jWe0JPj7jH1LH2lMVp9c0TuV/JzvA2QPxQ==",
+  "dgSpecHash": "hiwtcFJkTN/p3TCkiPEYZMQci6SOAleaHoDyV4kN2V3cnYkiYyMgsL6fT3swQnaflKU90ujRbW+0hN9X1+2psw==",
   "success": true,
-  "projectFilePath": "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment-Microservice\\Payment.Microservice\\Payment.Microservice\\Payment.Microservice.csproj",
+  "projectFilePath": "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment.Microservice\\Payment.Microservice\\Payment.Microservice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.azure.amqp\\2.4.11\\microsoft.azure.amqp.2.4.11.nupkg.sha512",
     "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.azure.servicebus\\5.2.0\\microsoft.azure.servicebus.5.2.0.nupkg.sha512",

@@ -6611,11 +6611,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment-Microservice\\Payment.Microservice\\Payment.Microservice\\Payment.Microservice.csproj",
+      "projectUniqueName": "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment.Microservice\\Payment.Microservice\\Payment.Microservice.csproj",
       "projectName": "Payment.Microservice",
-      "projectPath": "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment-Microservice\\Payment.Microservice\\Payment.Microservice\\Payment.Microservice.csproj",
+      "projectPath": "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment.Microservice\\Payment.Microservice\\Payment.Microservice.csproj",
       "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-      "outputPath": "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment-Microservice\\Payment.Microservice\\Payment.Microservice\\obj\\",
+      "outputPath": "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment.Microservice\\Payment.Microservice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

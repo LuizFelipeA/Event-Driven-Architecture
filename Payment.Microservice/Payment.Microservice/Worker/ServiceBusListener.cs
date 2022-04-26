@@ -19,18 +19,20 @@ namespace Payment.Microservice.Worker
 
         private readonly IExternalGatewayPaymentService _externalGatewayPaymentService;
 
-        private readonly Microsoft.Azure.ServiceBus.I _messageBus;
+        private readonly IMessageBus _messageBus;
 
         private ISubscriptionClient _subscriptionClient;
 
         public ServiceBusListener(
             ILogger logger,
             IConfiguration configuration,
-            IExternalGatewayPaymentService externalGatewayPaymentService)
+            IExternalGatewayPaymentService externalGatewayPaymentService,
+            IMessageBus messageBus)
         {
             _logger = logger;
             _configuration = configuration;
             _externalGatewayPaymentService = externalGatewayPaymentService;
+            _messageBus = messageBus;
         }
 
         public Task StartAsync(CancellationToken cancellationToken)
