@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment-Microservice\\Payment.Microservice\\External.PaymentGateway\\External.PaymentGateway.csproj": {}
+    "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment.Microservice\\External.PaymentGateway\\External.PaymentGateway.csproj": {}
   },
   "projects": {
-    "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment-Microservice\\Payment.Microservice\\External.PaymentGateway\\External.PaymentGateway.csproj": {
+    "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment.Microservice\\External.PaymentGateway\\External.PaymentGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment-Microservice\\Payment.Microservice\\External.PaymentGateway\\External.PaymentGateway.csproj",
+        "projectUniqueName": "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment.Microservice\\External.PaymentGateway\\External.PaymentGateway.csproj",
         "projectName": "External.PaymentGateway",
-        "projectPath": "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment-Microservice\\Payment.Microservice\\External.PaymentGateway\\External.PaymentGateway.csproj",
+        "projectPath": "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment.Microservice\\External.PaymentGateway\\External.PaymentGateway.csproj",
         "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment-Microservice\\Payment.Microservice\\External.PaymentGateway\\obj\\",
+        "outputPath": "D:\\LP\\Studies\\Microservices\\ASP.NET Communication\\ASynch Communication\\Payment.Microservice\\External.PaymentGateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
